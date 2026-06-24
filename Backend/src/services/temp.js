@@ -1,10 +1,10 @@
 const resume = `
-Maahi arya
-bhopal,India
-maahiArya@gmail.com
-+91 9756436878
-Linkedin: Linkedin.com/in/Maahi-arya
-Github: github.com/maahi-arya
+Candidate Name
+City, Country
+candidate@example.com
++91 XXXXXXXXXX
+LinkedIn: linkedin.com/in/your-profile
+GitHub: github.com/your-username
 
 PROFESSIONAL SUMMARY
 
