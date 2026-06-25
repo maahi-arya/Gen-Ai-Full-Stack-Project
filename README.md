@@ -77,21 +77,29 @@ npm run dev
 
 ## Screenshots
 
-### Home Page
-
-*Add screenshot here*
-
 ### Dashboard
 
-*Add screenshot here*
+![Dashboard](screenshots/Dashboard.png)
 
-### Generated Report
+### Generate Report
 
-*Add screenshot here*
+![Generate Report](screenshots/GenerateReport.png)
 
-### Profile / Previous Reports
+### Interview Report
 
-*Add screenshot here*
+![Interview Report](screenshots/InterviewReport.png)
+
+### Roadmap
+
+![Roadmap](screenshots/Roadmap.png)
+
+### My Reports
+
+![My Reports](screenshots/MyReports.png)
+
+### My Profile
+
+![My Profile](screenshots/MyProfile.png)
 
 ## Author
 
