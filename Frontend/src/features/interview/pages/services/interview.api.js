@@ -1,8 +1,10 @@
 import axios from "axios";
-const api = axios.create({
-    baseURL: "http://localhost:3000",
-    withCredentials:true
-})
+
+const api = axios.create({                
+    baseURL: "https://ai-powered-interview-report-generator.onrender.com",
+    withCredentials: true
+});
+
 
 /**
  * @description Service to generate interview report based on user seld description, resume and job Description.

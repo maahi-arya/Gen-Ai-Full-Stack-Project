@@ -1,10 +1,9 @@
 import axios  from "axios"
 
- 
-const api = axios.create({         //create an instance of axios to prevent from repitive code
-    baseURL:"http://localhost:3000",
-    withCredentials:true
-})
+const api = axios.create({                 //create an instance of axios to prevent from repitive code
+    baseURL: "https://ai-powered-interview-report-generator.onrender.com",
+    withCredentials: true
+});
 
 /**
  * 
