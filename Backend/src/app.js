@@ -20,5 +20,9 @@ const interviewRouter = require("./routes/interview.routes")
 app.use("/api/auth", router)
 app.use("/api/interview",interviewRouter)
 
+app.get("/", (req, res) => {
+    res.send("Backend is running successfully 🚀");
+});
+
 
 module.exports = app;
